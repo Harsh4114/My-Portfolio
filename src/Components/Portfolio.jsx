@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "To Know About My self",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "I am a student of B.Teach in Information and Technology. I am a passionate learner and I love to learn new things. I am a web developer and I am working on Flutter, Dart, Python, C, and C++.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web & App Development using flutter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Flutter is a popular open-source UI software development toolkit created by Google. It allows developers to build natively compiled applications for mobile, web, and desktop from a single codebase. This journey will guide you through the process of creating a Flutter project using code blocks, focusing on organized and efficient coding practices.",
+    url: "https://github.com/Harsh4114/Flutter-vs-Flask",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Flutter Development Course for Beginners",
+    description: "This course is designed for beginners who want to start their journey in Flutter development. This course will help you to learn the basics of Flutter development and how to create your first Flutter app.",
+    url: "https://github.com/Harsh4114/App-Using-Flutter-",
+
   },
 ];
 
